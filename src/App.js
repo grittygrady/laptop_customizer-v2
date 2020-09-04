@@ -7,10 +7,10 @@ import FEATURES from './Features'
 class App extends Component {
 
   constructor(props) {
-    super(props) 
+    super(props)
       this.state = {
         selected: {
-          Processor: {
+          Processor: { 
             name: '17th Generation Intel Core HB (7 Core with donut spare)',
             cost: 700
           },

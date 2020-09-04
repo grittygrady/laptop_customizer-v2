@@ -4,7 +4,6 @@ const USCurrencyFormat = new Intl.NumberFormat('en-US', {
     currency: 'USD'
 });
 
-
 class Total extends Component {
     render() {
         const total = Object.keys(this.props.selected).reduce(

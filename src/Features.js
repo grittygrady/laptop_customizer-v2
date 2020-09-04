@@ -8,7 +8,7 @@ const FEATURES = {
         name: 'Professor X AMD Fire Breather with sidewinder technology',
         cost: 1200
       }
-    ],
+    ], 
     "Operating System": [
       {
         name: 'Ubuntu Linux 16.04',

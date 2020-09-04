@@ -20,7 +20,7 @@ class Cart extends Component {
             />
           );
         });
-
+        
         return (
         <section className="main__summary">
                 <h2>Your cart</h2>

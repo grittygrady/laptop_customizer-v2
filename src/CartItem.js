@@ -8,7 +8,6 @@ const USCurrencyFormat = new Intl.NumberFormat('en-US', {
 class CartItem extends Component {
 
     render() {
-
         return (
             <div className="summary__option" key={this.props.featureHash}>
             <div className="summary__option__label">{this.props.feature} </div>

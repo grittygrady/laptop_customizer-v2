@@ -4,7 +4,6 @@ import Feature from './Feature';
 import slugify from 'slugify';
 
 class Customize extends Component {
-
     render() {
 
         const features = Object.keys(this.props.features).map((feature, idx) => {

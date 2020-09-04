@@ -25,5 +25,4 @@ class Option extends Component {
     }
 }
 
-
 export default Option;
